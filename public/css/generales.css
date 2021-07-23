@@ -19,3 +19,17 @@ ul{
 li{
     list-style: none;
 }
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase; /*transformar el texto en mayúscula*/
+    font-size: 73.5px; /*tamaño del titulo*/
+    font-weight: 700;
+}
+
+
+
+:root{
+    --colorVerde : #44a391;
+    --colorVerdeOscuro: #91b3ad;
+}
